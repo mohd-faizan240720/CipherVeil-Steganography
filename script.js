@@ -1,4 +1,3 @@
-// CipherVeil - PNG Steganography
 
 const imageInput = document.getElementById("imageInput");
 const dropzone = document.getElementById("dropzone");
